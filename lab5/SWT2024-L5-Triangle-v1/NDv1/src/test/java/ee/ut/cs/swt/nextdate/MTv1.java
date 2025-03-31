@@ -1,6 +1,8 @@
-package ee.ut.cs.swt.nextdate;
+package test.java.ee.ut.cs.swt.nextdate;
 
 import static org.junit.Assert.*;
+
+import main.java.ee.ut.cs.swt.nextdate.NextDate;
 import org.junit.AfterClass;
 import org.junit.Test;
 

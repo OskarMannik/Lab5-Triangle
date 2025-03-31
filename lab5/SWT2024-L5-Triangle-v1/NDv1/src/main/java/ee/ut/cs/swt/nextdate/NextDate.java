@@ -1,6 +1,7 @@
-package ee.ut.cs.swt.nextdate;
+package main.java.ee.ut.cs.swt.nextdate;
 
 public class NextDate {
+
 	
 	public NextDate(int m, int d, int y)
 	{
